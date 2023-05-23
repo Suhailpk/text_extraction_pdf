@@ -6,7 +6,7 @@ This project is designed to extract table content from PDF files and convert it 
 
 ## Description
 
-- In this project i am used Pytesseract OCR for extract table content in pdf.
+- In this project I am used Pytesseract OCR for extract table content in pdf.
 
 - Convert the extracted table into a pandas dataframe.
 
@@ -66,6 +66,6 @@ pip install opencv-python
 If you want to use it just follow the steps below.
 
 1. First download or clone the project
-2. Import the project to your favourit IDE
+2. Import the project to your favourite IDE
 3. Create an python enviroment
 4. Install all the packages 
